@@ -1,0 +1,25 @@
+.img{
+    width: 70px;
+}
+nav{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    background-color: rgb(218, 162, 162);
+    margin-left: 250px;
+    margin-right: 700px;
+    margin-top: 150px;
+    padding: 1em;
+}
+ul li{
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+
+
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
